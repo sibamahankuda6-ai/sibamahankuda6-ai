@@ -27,7 +27,7 @@ MCA Student • Full Stack Developer •
 # 👨‍💻 About Me
 
 ```java
-public class Suman {
+public class Siba {
     String education = "MCA Student";
     String role = "Full Stack Developer";
     String currentFocus = "Machine Learning";

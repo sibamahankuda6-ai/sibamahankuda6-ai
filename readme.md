@@ -1,3 +1,8 @@
+<h3><code>Suman@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<br>
+<br>
 <p align="center">
 <img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4facfe,100:00f2fe&text=Siba%20Mahankuda&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=MCA%20Student%20%7C%20Java%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60/>
 </p>
@@ -51,16 +56,12 @@ public class Siba {
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=html" width="60" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" title="Tailwind CSS"/>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" width="60" title="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60" title="MongoDB"/>
+  <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="60" title="Spring Boot"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=git" width="60" title="Git"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="60" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="60" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="60" title="Vercel"/>
   <img src="https://skillicons.dev/icons?i=render" width="60" title="Render"/>
 </p>
@@ -99,7 +100,9 @@ public class Siba {
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:sibamahankuda6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sibamahankuda6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/siba-mahankuda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sibamahankuda6-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <!-- <a href="https://suman-7z.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> -->

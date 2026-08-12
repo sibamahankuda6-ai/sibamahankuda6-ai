@@ -1,8 +1,4 @@
-<h3><code>Suman@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
-<br>
-<br>
 <p align="center">
 <img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4facfe,100:00f2fe&text=Siba%20Mahankuda&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=MCA%20Student%20%7C%20Java%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60/>
 </p>
@@ -58,7 +54,7 @@ public class Siba {
   <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" title="Tailwind CSS"/>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" title="Java"/>
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="60" title="Spring Boot"/>
+<img src="https://techstack-generator.vercel.app/spring-icon.svg" width="60" title="Spring Boot" alt="Spring Boot"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=git" width="60" title="Git"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="60" title="VS Code"/>

@@ -46,7 +46,6 @@ public class Siba {
 ---
 
 ## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" title="React"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" title="JavaScript"/>

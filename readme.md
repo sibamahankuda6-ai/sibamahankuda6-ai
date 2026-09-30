@@ -64,6 +64,11 @@ public class Siba {
 
 # ⚡ GitHub Summary Cards
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya2329&theme=dark&cache=false" alt="Satyapriya's GitHub Streak" />
+</p>
+
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sibamahankuda6-ai&theme=tokyonight"/>
